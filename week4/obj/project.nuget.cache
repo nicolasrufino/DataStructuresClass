@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "EgrBgy0DyJQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\nicolas.rufinopinto\\nicolasruf\\DataStructuresClass\\week4\\week4.csproj",
+=======
+  "dgSpecHash": "UeVcfzLrCkOC2XQFcyC3Nvr17PSsIjMsaxpWVQesXcehRavpv9r1XSAnK1FaBj582lQNo62LQI3BMXGaXJgCew==",
+  "success": true,
+  "projectFilePath": "/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/week4.csproj",
+>>>>>>> 9e6515bdd5f74e420da7712305a0ab4bb4e9e193
   "expectedPackageFiles": [],
   "logs": []
 }

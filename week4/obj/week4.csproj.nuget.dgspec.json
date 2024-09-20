@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\nicolas.rufinopinto\\nicolasruf\\DataStructuresClass\\week4\\week4.csproj": {}
   },
   "projects": {
@@ -20,13 +21,32 @@
           "C:\\Users\\nicolas.rufinopinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+    "/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/week4.csproj": {}
+  },
+  "projects": {
+    "/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/week4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/week4.csproj",
+        "projectName": "week4",
+        "projectPath": "/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/week4.csproj",
+        "packagesPath": "/Users/nicolasrufino/.nuget/packages/",
+        "outputPath": "/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nicolasrufino/.nuget/NuGet/NuGet.Config"
+>>>>>>> 9e6515bdd5f74e420da7712305a0ab4bb4e9e193
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+<<<<<<< HEAD
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+=======
+>>>>>>> 9e6515bdd5f74e420da7712305a0ab4bb4e9e193
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,11 +59,14 @@
           "warnAsError": [
             "NU1605"
           ]
+<<<<<<< HEAD
         },
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
+=======
+>>>>>>> 9e6515bdd5f74e420da7712305a0ab4bb4e9e193
         }
       },
       "frameworks": {
@@ -65,7 +88,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 9e6515bdd5f74e420da7712305a0ab4bb4e9e193
         }
       }
     }
