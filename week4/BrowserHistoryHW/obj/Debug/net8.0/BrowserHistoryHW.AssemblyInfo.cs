@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BrowserHistoryHW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbec00dcae38ee16a53a5effd8202bc98b149604")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fae8fb071f8d55fd35f193967dd14b55540c6e9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BrowserHistoryHW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BrowserHistoryHW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

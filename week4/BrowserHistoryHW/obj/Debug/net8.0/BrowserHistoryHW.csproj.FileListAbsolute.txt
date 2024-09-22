@@ -1,0 +1,15 @@
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/BrowserHistoryHW/bin/Debug/net8.0/BrowserHistoryHW
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/BrowserHistoryHW/bin/Debug/net8.0/BrowserHistoryHW.deps.json
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/BrowserHistoryHW/bin/Debug/net8.0/BrowserHistoryHW.runtimeconfig.json
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/BrowserHistoryHW/bin/Debug/net8.0/BrowserHistoryHW.dll
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/BrowserHistoryHW/bin/Debug/net8.0/BrowserHistoryHW.pdb
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/BrowserHistoryHW/obj/Debug/net8.0/BrowserHistoryHW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/BrowserHistoryHW/obj/Debug/net8.0/BrowserHistoryHW.AssemblyInfoInputs.cache
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/BrowserHistoryHW/obj/Debug/net8.0/BrowserHistoryHW.AssemblyInfo.cs
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/BrowserHistoryHW/obj/Debug/net8.0/BrowserHistoryHW.csproj.CoreCompileInputs.cache
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/BrowserHistoryHW/obj/Debug/net8.0/BrowserHistoryHW.sourcelink.json
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/BrowserHistoryHW/obj/Debug/net8.0/BrowserHistoryHW.dll
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/BrowserHistoryHW/obj/Debug/net8.0/refint/BrowserHistoryHW.dll
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/BrowserHistoryHW/obj/Debug/net8.0/BrowserHistoryHW.pdb
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/BrowserHistoryHW/obj/Debug/net8.0/BrowserHistoryHW.genruntimeconfig.cache
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week4/BrowserHistoryHW/obj/Debug/net8.0/ref/BrowserHistoryHW.dll

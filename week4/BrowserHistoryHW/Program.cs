@@ -49,6 +49,7 @@ namespace Whatever
     {
         static void Main()
         {
+            Console.Clear();
             Stack<int> stack = new Stack<int>();
             //the one below is our costumStack
             // CustomStack<int> stack = new CustomStack<int>(); 
