@@ -50,8 +50,6 @@ public class Node
     public Node(int data)
     {
         Data = data;
-        // Left = null;
-        // Right = null;
     }
 }
 
@@ -76,26 +74,39 @@ public class BestBinaryTree
         InOrderTraversal(node.Left);
         Console.WriteLine(node.Data + " ");
         InOrderTraversal(node.Right);
-        Console.WriteLine(node.Data + " ");
-
     }
+
+    public void DescendingTraversal(Node node)
+    {
+        if (node == null)
+        {
+            return;
+        }
+
+        DescendingTraversal(node.Right);
+        Console.WriteLine(node.Data + " ");
+        DescendingTraversal(node.Left);
+    }
+
 }
 
 class Program
 {
     static void Main()
     {
+        Console.Clear();
         BestBinaryTree tree = new BestBinaryTree();
 
         tree.Root = new Node(5);
         tree.Root.Left = new Node(3);
         tree.Root.Left.Left = new Node(2);
         tree.Root.Left.Right = new Node(4);
+        tree.Root.Right = new Node(6);
+        tree.Root.Right.Right = new Node(8);
+        tree.Root.Right.Right.Left = new Node(7);
+        tree.Root.Right.Right.Right = new Node(9);
 
-        tree.Root.Right = new Node(8);
-        tree.Root.Right.Left = new Node(7);
-        tree.Root.Right.Right = new Node(9);
-
-        tree.InOrderTraversal(tree.Root);
+        //tree.InOrderTraversal(tree.Root);
+        tree.DescendingTraversal(tree.Root);
     }
 }
