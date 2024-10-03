@@ -1,4 +1,7 @@
-﻿public class Node
+﻿using System.ComponentModel.Design.Serialization;
+using System.Runtime.InteropServices;
+
+public class Node
 {
     public int Value { get; set; }
     public Node Left { get; set; }
@@ -9,27 +12,46 @@
         Left = null;
         Right = null;
     }
-    public int calculateTheHeight(Node node)
+}
+
+public class BestBinaryTree
+
+{
+    public Node Root;
+
+    public BestBinaryTree() { }
+
+    public BestBinaryTree(Node node)
+    {
+        Root = node;
+    }
+
+
+    public int CalculateTheHeight(Node node)
     {
         if (node == null)
         {
             return -1;
         }
-        int LeftNodeCount = calculateTheHeight(node.Left);
-        int RightNodeCount = calculateTheHeight(node.Right);
+        int LeftNodeCount = CalculateTheHeight(node.Left);
+        int RightNodeCount = CalculateTheHeight(node.Right);
 
         return Math.Max(LeftNodeCount, RightNodeCount) + 1;
     }
-
-    public bool isBalanced(Node node)
+    public int calculateTheHeight()
     {
-        if (node == null)
+        return CalculateTheHeight(Root);
+    }
+
+    public bool IsBalanced()
+    {
+        if (Root == null)
         {
             return true;
         }
 
-        int LeftNodeCount = calculateTheHeight(node.Left);
-        int RightNodeCount = calculateTheHeight(node.Right);
+        int LeftNodeCount = CalculateTheHeight(Root.Left);
+        int RightNodeCount = CalculateTheHeight(Root.Right);
 
         int heightDifference = Math.Abs(LeftNodeCount - RightNodeCount);
 
@@ -38,6 +60,6 @@
             return false;
         }
 
-        return isBalanced(node.Left) && isBalanced(node.Right);
+        return true;
     }
 }
