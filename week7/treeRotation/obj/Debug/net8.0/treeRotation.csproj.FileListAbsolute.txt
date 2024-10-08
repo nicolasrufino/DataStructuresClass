@@ -1,0 +1,15 @@
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/treeRotation/bin/Debug/net8.0/treeRotation
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/treeRotation/bin/Debug/net8.0/treeRotation.deps.json
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/treeRotation/bin/Debug/net8.0/treeRotation.runtimeconfig.json
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/treeRotation/bin/Debug/net8.0/treeRotation.dll
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/treeRotation/bin/Debug/net8.0/treeRotation.pdb
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/treeRotation/obj/Debug/net8.0/treeRotation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/treeRotation/obj/Debug/net8.0/treeRotation.AssemblyInfoInputs.cache
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/treeRotation/obj/Debug/net8.0/treeRotation.AssemblyInfo.cs
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/treeRotation/obj/Debug/net8.0/treeRotation.csproj.CoreCompileInputs.cache
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/treeRotation/obj/Debug/net8.0/treeRotation.sourcelink.json
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/treeRotation/obj/Debug/net8.0/treeRotation.dll
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/treeRotation/obj/Debug/net8.0/refint/treeRotation.dll
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/treeRotation/obj/Debug/net8.0/treeRotation.pdb
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/treeRotation/obj/Debug/net8.0/treeRotation.genruntimeconfig.cache
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/treeRotation/obj/Debug/net8.0/ref/treeRotation.dll

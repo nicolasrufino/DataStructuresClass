@@ -1,8 +1,4 @@
-﻿using System.ComponentModel.Design.Serialization;
-using System.Runtime.InteropServices;
-using System.Security.Cryptography.X509Certificates;
-
-public class Node
+﻿public class Node
 {
     public int Value { get; set; }
     public Node Left { get; set; }
@@ -178,34 +174,94 @@ public class BestBinaryTree
     keep track of the long, in this case lefts, side's child
    for this case, set the roots child to now be the childs right child
     */
-    public void TreeBalancer()
+    // public void TreeBalancer()
+    // {
+    //     bool keepBalancing = !IsBalanced();
+    //     while (keepBalancing)
+    //     {
+    //         //which side is the tall side, which way to rotate?
+    //         int LeftNodeCount = CalculateTheHeight(Root.Left);
+    //         int RightNodeCount = CalculateTheHeight(Root.Right);
+
+    //         //right rotation
+    //         Node B = Root.Left;
+    //         Node A = Root;
+    //         Node E = Root.Left.Right;
+
+    //         Root = B;
+    //         B.Right = A;
+    //         A.Left = E;
+
+    //         //keep track of lefts sides child
+    //         //set the roots left child to now be the childs right
+
+    //         if (IsBalanced())
+    //         {
+    //             keepBalancing = false;
+    //         }
+    //     }
+    // }
+
+    public enum BalanceStatus { Balanced, LeftHeavy, RightHeavy }
+
+    public BalanceStatus CheckBalance()
     {
-        bool keepBalancing = !IsBalanced();
-        while (keepBalancing)
+        if (IsBalanced())
         {
-            //which side is the tall side, which way to rotate?
-            int LeftNodeCount = CalculateTheHeight(Root.Left);
-            int RightNodeCount = CalculateTheHeight(Root.Right);
+            return BalanceStatus.Balanced;
+        }
 
-            //right rotation
-            Node B = Root.Left;
-            Node A = Root;
-            Node E = Root.Left.Right;
+        int LeftNodeCount = CalculateTheHeight(Root.Left);
+        int RightNodeCount = CalculateTheHeight(Root.Right);
 
-            Root = B;
-            B.Right = A;
-            A.Left = E;
-
-            //keep track of lefts sides child
-            //set the roots left child to now be the childs right
-
-            if (IsBalanced())
-            {
-                keepBalancing = false;
-            }
+        if (LeftNodeCount > RightNodeCount)
+        {
+            return BalanceStatus.LeftHeavy;
+        }
+        else
+        {
+            return BalanceStatus.RightHeavy;
         }
     }
 
+    public void TreeBalancer()
+    {
+        BalanceStatus balanceStatus = CheckBalance();
+
+        while (balanceStatus != BalanceStatus.Balanced)
+        {
+            if (balanceStatus == BalanceStatus.LeftHeavy)
+            {
+                RightRotate();
+            }
+            else if (balanceStatus == BalanceStatus.RightHeavy)
+            {
+                LeftRotate();
+            }
+
+            balanceStatus = CheckBalance();
+        }
+    }
+    public void RightRotate()
+    {
+        Node pivot = Root.Left;
+        Node pivotRightChild = pivot.Right;
+
+        pivot.Right = Root;
+        Root.Left = pivotRightChild;
+
+        Root = pivot;
+    }
+    public void LeftRotate()
+    {
+        Node pivot = Root.Right;
+        Node pivotLeftChild = pivot.Left;
+
+        pivot.Left = Root;
+        Root.Right = pivotLeftChild;
+
+        Root = pivot;
+    }
     public Node Delete(int key)
     {
         return Delete(Root, key);
@@ -241,13 +297,5 @@ public class BestBinaryTree
             currentNode.Right = Delete(currentNode.Right, currentNode.Data);
         }
         return currentNode;
-    }
-}
-
-public class Program
-{
-    public void Main()
-    {
-
     }
 }

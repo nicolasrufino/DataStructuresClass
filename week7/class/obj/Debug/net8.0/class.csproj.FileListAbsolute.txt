@@ -1,0 +1,15 @@
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/class/bin/Debug/net8.0/class
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/class/bin/Debug/net8.0/class.deps.json
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/class/bin/Debug/net8.0/class.runtimeconfig.json
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/class/bin/Debug/net8.0/class.dll
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/class/bin/Debug/net8.0/class.pdb
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/class/obj/Debug/net8.0/class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/class/obj/Debug/net8.0/class.AssemblyInfoInputs.cache
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/class/obj/Debug/net8.0/class.AssemblyInfo.cs
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/class/obj/Debug/net8.0/class.csproj.CoreCompileInputs.cache
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/class/obj/Debug/net8.0/class.sourcelink.json
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/class/obj/Debug/net8.0/class.dll
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/class/obj/Debug/net8.0/refint/class.dll
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/class/obj/Debug/net8.0/class.pdb
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/class/obj/Debug/net8.0/class.genruntimeconfig.cache
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week7/class/obj/Debug/net8.0/ref/class.dll
