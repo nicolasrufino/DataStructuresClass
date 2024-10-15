@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = inventoryManagment
-build_property.ProjectDir = /Users/nicolasrufino/week8/inventoryManagment/
+build_property.ProjectDir = /Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week8/inventoryManagment/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

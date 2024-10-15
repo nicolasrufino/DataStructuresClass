@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nicolasrufino/week8/inventoryManagment/inventoryManagment.csproj": {}
+    "/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week8/inventoryManagment/inventoryManagment.csproj": {}
   },
   "projects": {
-    "/Users/nicolasrufino/week8/inventoryManagment/inventoryManagment.csproj": {
+    "/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week8/inventoryManagment/inventoryManagment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nicolasrufino/week8/inventoryManagment/inventoryManagment.csproj",
+        "projectUniqueName": "/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week8/inventoryManagment/inventoryManagment.csproj",
         "projectName": "inventoryManagment",
-        "projectPath": "/Users/nicolasrufino/week8/inventoryManagment/inventoryManagment.csproj",
+        "projectPath": "/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week8/inventoryManagment/inventoryManagment.csproj",
         "packagesPath": "/Users/nicolasrufino/.nuget/packages/",
-        "outputPath": "/Users/nicolasrufino/week8/inventoryManagment/obj/",
+        "outputPath": "/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week8/inventoryManagment/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nicolasrufino/.nuget/NuGet/NuGet.Config"
