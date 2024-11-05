@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/week9.csproj",
-      "projectName": "week9",
-      "projectPath": "/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/week9.csproj",
+      "projectUniqueName": "/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/classNotesWednesday/classNotesWednesday.csproj",
+      "projectName": "classNotesWednesday",
+      "projectPath": "/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/classNotesWednesday/classNotesWednesday.csproj",
       "packagesPath": "/Users/nicolasrufino/.nuget/packages/",
-      "outputPath": "/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/obj/",
+      "outputPath": "/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/classNotesWednesday/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nicolasrufino/.nuget/NuGet/NuGet.Config"

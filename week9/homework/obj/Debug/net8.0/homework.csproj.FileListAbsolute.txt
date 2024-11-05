@@ -1,0 +1,15 @@
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/homework/obj/Debug/net8.0/homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/homework/obj/Debug/net8.0/homework.AssemblyInfoInputs.cache
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/homework/obj/Debug/net8.0/homework.AssemblyInfo.cs
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/homework/obj/Debug/net8.0/homework.csproj.CoreCompileInputs.cache
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/homework/obj/Debug/net8.0/homework.sourcelink.json
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/homework/bin/Debug/net8.0/homework
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/homework/bin/Debug/net8.0/homework.deps.json
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/homework/bin/Debug/net8.0/homework.runtimeconfig.json
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/homework/bin/Debug/net8.0/homework.dll
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/homework/bin/Debug/net8.0/homework.pdb
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/homework/obj/Debug/net8.0/homework.dll
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/homework/obj/Debug/net8.0/refint/homework.dll
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/homework/obj/Debug/net8.0/homework.pdb
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/homework/obj/Debug/net8.0/homework.genruntimeconfig.cache
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/week9/homework/obj/Debug/net8.0/ref/homework.dll
