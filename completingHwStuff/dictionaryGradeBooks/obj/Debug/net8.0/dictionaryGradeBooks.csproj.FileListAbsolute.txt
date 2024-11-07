@@ -1,0 +1,15 @@
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/completingHwStuff/dictionaryGradeBooks/bin/Debug/net8.0/dictionaryGradeBooks
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/completingHwStuff/dictionaryGradeBooks/bin/Debug/net8.0/dictionaryGradeBooks.deps.json
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/completingHwStuff/dictionaryGradeBooks/bin/Debug/net8.0/dictionaryGradeBooks.runtimeconfig.json
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/completingHwStuff/dictionaryGradeBooks/bin/Debug/net8.0/dictionaryGradeBooks.dll
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/completingHwStuff/dictionaryGradeBooks/bin/Debug/net8.0/dictionaryGradeBooks.pdb
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/completingHwStuff/dictionaryGradeBooks/obj/Debug/net8.0/dictionaryGradeBooks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/completingHwStuff/dictionaryGradeBooks/obj/Debug/net8.0/dictionaryGradeBooks.AssemblyInfoInputs.cache
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/completingHwStuff/dictionaryGradeBooks/obj/Debug/net8.0/dictionaryGradeBooks.AssemblyInfo.cs
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/completingHwStuff/dictionaryGradeBooks/obj/Debug/net8.0/dictionaryGradeBooks.csproj.CoreCompileInputs.cache
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/completingHwStuff/dictionaryGradeBooks/obj/Debug/net8.0/dictionaryGradeBooks.sourcelink.json
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/completingHwStuff/dictionaryGradeBooks/obj/Debug/net8.0/dictionaryGradeBooks.dll
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/completingHwStuff/dictionaryGradeBooks/obj/Debug/net8.0/refint/dictionaryGradeBooks.dll
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/completingHwStuff/dictionaryGradeBooks/obj/Debug/net8.0/dictionaryGradeBooks.pdb
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/completingHwStuff/dictionaryGradeBooks/obj/Debug/net8.0/dictionaryGradeBooks.genruntimeconfig.cache
+/Users/nicolasrufino/Desktop/snowCollege/fall/dataStructures/DataStructuresClass/completingHwStuff/dictionaryGradeBooks/obj/Debug/net8.0/ref/dictionaryGradeBooks.dll
